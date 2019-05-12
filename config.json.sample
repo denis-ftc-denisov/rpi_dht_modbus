@@ -1,0 +1,17 @@
+{
+	"port": 5020,
+	"sensors": [
+		{ 
+			"type": "DHT22",
+			"pin": 17,
+			"address_t": 1,
+			"address_h": 3
+		},
+		{ 
+			"type": "DHT22",
+			"pin": 27,
+			"address_t": 5,
+			"address_h": 7
+		}
+	]
+}
